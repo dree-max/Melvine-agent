@@ -1,0 +1,10 @@
+{
+  "name": "melvine",
+  "version": "1.0.0",
+  "description": "Personal AI agent for Melvine Mwesigwa Bill - intelligent, warm, efficient assistant for managing schedule, tasks, and reminders",
+  "author": {
+    "name": "Melvine Mwesigwa Bill",
+    "url": "https://github.com/dree-max/Melvine-agent"
+  },
+  "keywords": ["personal-assistant", "productivity", "task-management", "schedule"]
+}
